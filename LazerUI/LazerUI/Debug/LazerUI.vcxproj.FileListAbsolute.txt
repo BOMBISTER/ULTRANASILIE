@@ -1,0 +1,3 @@
+C:\Users\HP\source\repos\LazerUI\LazerUI\Debug\LazerUI.vcxproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LazerUI\LazerUI\Debug\LazerUI.MenuForm.resources
+C:\Users\HP\source\repos\LazerUI\LazerUI\Debug\LazerUI.vcxproj.GenerateResource.cache
